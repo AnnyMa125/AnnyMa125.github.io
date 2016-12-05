@@ -7,14 +7,14 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color:SkyBlue;
-    background-color:Aquamarine;
+    color:SaddleBrown;
+    background-color:DarkOrange;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    color:SkyBlue;
-    background-color:Aquamarine;
+    color:SaddleBrown;
+    background-color:DarkOrange;
 }
 a {
     text-decoration: none;
@@ -26,8 +26,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Times New Roman', 'Sans-Serif';
-    color:Tomato;
-    background-color:Grey;
+    color:Maroon;
 }
 p {
     font-size: 1.5em;
