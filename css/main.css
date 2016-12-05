@@ -1,3 +1,10 @@
+html{
+    background:url(http://www.southernhillsanimalhospital.com/sites/site-1450/images/kittens.jpg)no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 body {
     margin: 60px auto;
     width: 70%;
