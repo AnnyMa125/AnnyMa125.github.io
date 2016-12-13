@@ -1,5 +1,5 @@
 html{
-    background:url("http://wallpaperlayer.com/img/2015/10/autumn-forest-background-8701-9029-hd-wallpapers.jpg")no-repeat center center fixed; 
+    background:"http://wallpaperlayer.com/img/2015/10/autumn-forest-background-8701-9029-hd-wallpapers.jpg"(images/bg.jpg)no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
