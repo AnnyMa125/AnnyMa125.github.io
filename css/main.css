@@ -1,8 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color:Moccasin;
-  background: url(http://wallpaperlayer.com/img/2015/10/autumn-forest-background-8701-9029-hd-wallpapers.jpg) no-repeat center center fixed;
+    background: url('http://wallpaperlayer.com/img/2015/10/autumn-forest-background-8701-9029-hd-wallpapers.jpg') no-repeat center center fixed;
 }
 nav ul, footer ul {
     font-family:'Copperplate', 'Arial', 'Sans-Serif';
