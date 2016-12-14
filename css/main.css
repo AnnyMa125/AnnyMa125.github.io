@@ -1,26 +1,6 @@
 html { 
-  background: url(http://wallpaperlayer.com/img/2015/10/autumn-forest-background-8701-9029-hd-wallpapers.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-#bg {
-  position: fixed; 
-  top: -50%; 
-  left: -50%; 
-  width: 200%; 
-  height: 200%;
-}
-#bg img {
-  position: absolute; 
-  top: 0; 
-  left: 0; 
-  right: 0; 
-  bottom: 0; 
-  margin: auto; 
-  min-width: 50%;
-  min-height: 50%;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://wallpaperlayer.com/img/2015/10/autumn-forest-background-8701-9029-hd-wallpapers.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
 }
 body {
     margin: 60px auto;
