@@ -29,7 +29,7 @@ h1 {
     font-family:'Helvetica', 'Times New Roman', 'Sans-Serif';
     color:Maroon;
 }
-h2 {
+h2, h3 {
     font-size: 3em;
     font-family:'Helvetica', 'Times New Roman', 'Sans-Serif';
     color:White;
